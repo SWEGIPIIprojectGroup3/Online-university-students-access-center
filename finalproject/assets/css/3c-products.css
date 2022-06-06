@@ -1,0 +1,52 @@
+html, body {
+  font-family: arial, sans-serif;
+  background: #f9f9f9;
+}
+.note {
+  background: #e1e4ff;
+  padding: 10px;
+  font-weight: 700;
+}
+#demo {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.pRow {
+  background: #fff;
+  border: 1px solid #ecede7;
+  margin: 20px;
+  padding: 10px;
+}
+.pName {
+  font-weight: 700;
+  font-size: 26px;
+}
+.pPrice {
+  font-weight: 700;
+  color: #bb1515;
+  font-size: 18px;
+}
+.pDesc {
+  color: #888;
+  font-size: 18px;
+}
+.pReview {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  color: #3c5ac7;
+}
+.pStar {
+  display: flex;
+}
+.pStar .star {
+  width: 36px;
+  height: 36px;
+  background-image: url("stars.png");
+  cursor: pointer;
+}
+.pStar .star.blank { background-position: -36px; }
+.pStat {
+  font-size: 15px;
+  color: #787878;
+}
