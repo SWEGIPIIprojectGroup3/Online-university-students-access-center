@@ -21,4 +21,10 @@ project setup procedure/steps 1. choose php project/folder structure 2.Decide pr
  user=root
  password=""
  8 tables
- 
+ Project contribution
+ - Meti Adugna- online shopping page,database structuring,Admin page
+ - Nardos Hadis- Laundry page,dynamic report,rating
+ - Metasebyia Tariku- form validation,homepage
+ - Rahel Hailu -GUI updating,Feedback page
+ - Mastewal Tesfaye-import and export, rating
+ - Kokebe Negalign- Multi media uploading,change appointment
